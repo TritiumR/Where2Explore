@@ -1,5 +1,5 @@
 # Where2Explore: Few-shot Affordance Learning for Unseen Novel Categories of Articulated Objects [NeuriIPS 2023]
-
+[Project Page](https://tritiumr.github.io/Where2Explore/)
 
 ![Overview](/images/guide.png)
 
@@ -51,3 +51,17 @@ Please post issues for questions and more helps on this Github repo page. We enc
 ## License
 
 MIT Licence
+
+## Reference
+
+If you find our work useful in your research, please consider citing:
+
+```
+@article{ning2024where2explore,
+  title={Where2explore: Few-shot affordance learning for unseen novel categories of articulated objects},
+  author={Ning, Chuanruo and Wu, Ruihai and Lu, Haoran and Mo, Kaichun and Dong, Hao},
+  journal={Advances in Neural Information Processing Systems},
+  volume={36},
+  year={2024}
+}
+```
