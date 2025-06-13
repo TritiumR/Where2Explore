@@ -1,4 +1,4 @@
-# Where2Explore: Few-shot Affordance Learning for Unseen Novel Categories of Articulated Objects [NeuriIPS 2023]
+# Where2Explore: Few-shot Affordance Learning for Unseen Novel Categories of Articulated Objects [NeurIPS 2023]
 [Project Page](https://tritiumr.github.io/Where2Explore/)
 
 ![Overview](/images/guide.png)
